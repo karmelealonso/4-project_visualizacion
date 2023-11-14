@@ -1,4 +1,6 @@
-# 4-project_visualizacion
+# 4. Proyecto de visualización. 
+# La diabetes y su relación con algunas variables sociodemográficas y hábitos de salud.
+Relación entre lroject_visualizacion
 # 1.	INTRODUCCIÓN.
 
 La diabetes representa un desafío significativo para la salud a nivel mundial, con una prevalencia en constante aumento en las últimas décadas. Ha emergido como una de las principales causas de mortalidad en adultos. 
@@ -24,13 +26,11 @@ En concreto:
 
 # 3.	MATERIAL Y MÉTODOS.
 
-3.1. POBLACIÓN A ESTUDIO.
+# 3.1. POBLACIÓN A ESTUDIO.
 
 Estudio realizado a 258931 trabajadores (103427 mujeres y 155504 hombres), de distintas regiones de nuestro país (Baleares, Andalucía, Canarias, Comunidad Valenciana, Cataluña, Madrid, Castilla La Mancha, Castilla León, País Vasco) y pertenecientes a sectores laborales muy diversos entre los que podemos destacar hostelería, construcción, comercio, sanidad, administración pública, transporte, educación, industria y limpieza.
 
-
-
-3.2 MEDICIONES.
+# 3.2 MEDICIONES.
 
 - El estudio se llevó a cabo en el periodo comprendido entre los meses de enero de 2020 y junio de 2021. 
 
@@ -45,15 +45,21 @@ Estudio realizado a 258931 trabajadores (103427 mujeres y 155504 hombres), de di
 
 # 4.	ANÁLISIS Y ESTUDIO DEL PRIMER OBJETIVO.
 
-4.1. PROCEDIMIENTO.
+# 4.1. PROCEDIMIENTO.
 
-4.2 DISCUSIÓN. 
+![](https://github.com/karmelealonso/4-project_visualizacion/blob/main/imagenes/Dashboard%201.png)
+
+
+
+![](https://github.com/karmelealonso/4-project_visualizacion/blob/main/imagenes/Dashboard%202.png)
+
+# 4.2 DISCUSIÓN. 
 
 Los resultados obtenidos en este estudio sobre la incidencia de la diabetes revelan asociaciones significativas entre diversas variables sociodemográficas y hábitos de salud. En primer lugar, se observa una correlación significativa entre el sexo masculino y la edad avanzada con valores más elevados en la incidencia de diabetes. Este hallazgo sugiere que los hombres de mayor edad pueden ser más susceptibles a desarrollar diabetes, posiblemente debido a factores biológicos o de estilo de vida específicos a esta población.
 Además, se destaca la influencia de la actividad física y la adherencia a la dieta mediterránea en la incidencia de la diabetes. Los individuos sedentarios y con baja adherencia a la dieta mediterránea muestran valores más altos de incidencia de diabetes, lo que respalda la importancia de estos hábitos saludables en la prevención de la enfermedad. Curiosamente, el consumo de tabaco no parece tener una correlación significativa, indicando que, al menos en este contexto, el tabaquismo no está directamente asociado con la incidencia de diabetes.
 Las conclusiones derivadas de este análisis son dos. En primer lugar, se confirma que variables sociodemográficas como la edad y el sexo, junto con hábitos de salud como la actividad física y la dieta mediterránea, ejercen una influencia significativa en la incidencia de la diabetes. En segundo lugar, el estudio sugiere que, a excepción del tabaquismo, los hábitos saludables analizados desempeñan un papel crucial en la prevención de la diabetes..
 
-4.3. CONCLUSIONES GENERALES.
+# 4.3. CONCLUSIONES GENERALES.
 
 1. Las diferentes variables sociodemográficas analizadas  influyen en la incidencia de la diabetes.
 2. Los diferentes hábitos saludables analizados (actividad física y adherencia a la dieta mediterránea), a excepción del con sumo de tabaco, lo cual no parece que guarde mucha relación, influyen en la incidencia de la diabetes.
@@ -67,7 +73,7 @@ El IMC y la edad están correlacionados con la diabetes.
 
 -	En este escenario, necesitamos averiguar si las gráficas de tendencias ambas suben o bajan a la vez. Así, las representaremos para luego hallar el coeficiente de correlación.
 
-5.1 CORRELACIONES.
+# 5.1 CORRELACIONES.
 
 Comencemos nuestro análisis enfocándonos en las correlaciones, un concepto fundamental para comprender la interrelación entre dos variables cuantitativas. 
 Es esencial tener en claro que una correlación nos indica el grado en que dos variables cuantitativas se afectan entre sí, esta afectación puede ser tanto positiva como negativa, y el grado será fuerte o débil
@@ -82,15 +88,16 @@ Es importante tener en mente que las correlaciones no son causalidad, aunque la 
 
 En las gráficas siguientes, podemos ver como se comparan, en los tres casos, dos conjuntos de datos. 
 
+![](https://github.com/karmelealonso/4-project_visualizacion/blob/main/imagenes/Dashboard%203.png)
 Observamos una correlación fuerte entre ambas variables en todos los casos, evidenciando que cuando una variable experimenta un aumento, la otra también lo hace. Sin embargo, como decía, es importante destacar que esta conexión no implica necesariamente causalidad. Aunque ambas variables están vinculadas en sus cambios, no podemos concluir que el cambio en una sea la causa directa del cambio en la otra; la correlación refleja una asociación, pero no establece una relación causal clara.
 
-5.2 DISCUSIÓN.
+# 5.2 DISCUSIÓN.
 
 A simple vista, a veces es difícil confirmar una correlación entre ambas variables, pero podemos tener un poco más de detalle mostrando la línea para a continuación poder observar también un cuadro con información acerca de la misma, buscando el valor R-cuadrado, es decir, el valor de correlación. 
 Este valor indica la fuerza y dirección de la correlación, sacando primeramente lo evidente. Al ser positivo, tenemos una correlación positiva; y si fuera negativo, tendríamos una correlación negativa. 
 El valor de la correlación siempre se encuentra entre 1 y -1, siendo los extremos donde la correlación es más fuerte y, mientras se acerca a 0, la correlación se va debilitando. En el caso de tener una correlación en 0, entonces podemos concluir que ambas variables son independientes entre si.
 
-5.3 CONCLUSIONES.
+# 5.3 CONCLUSIONES.
 
 En estos tres casos se tiene una correlación de 0,94, 0.98 y 0,94 respectivamente. Son, como bien puede deducirse, correlaciones positivas, lo que quiere decir que ambas variables crecen al mismo tiempo; y son fuertes, pues se puede decir que la correlación es fuerte cuando el valor de este se encuentra por encima de 0.3 (en el caso de correlaciones positivas) o por debajo de -0.3 (en el caso de correlaciones negativas).
 Estas mediciónes nos dan información acerca de como dos variables son afectadas entre sí, lo que ayuda en el desarrollo de modelos predictivos. 
