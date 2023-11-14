@@ -121,7 +121,7 @@ Aunque la glucemia en sangre parece ser directamente proporcional a la edad, pue
 Es por esto que en el gráfico de barras anterior, en la cual se observaba una relación entre la prevalencia de la diabetes y la edad, había una mayor incidencia de diabetes en adultos de mediana edad en comparación con los ancianos, que es lo que nos podría dar a entender este último gráfico. 
 En resumen, es esencial tener en cuenta que la diabetes no está determinada únicamente por la edad, sino por una combinación de factores genéticos, ambientales y de estilo de vida. 
 
-# 7. # CONTENIDO DEL REPOSITORIO. 
+# 7. CONTENIDO DEL REPOSITORIO. 
 
 - notebook: contiene un archivo jupyter notebook.
     1. main.ipynb: contiene la extracción y posterior limpieza y transformación del archivo CSV. 
