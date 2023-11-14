@@ -1,6 +1,6 @@
 # 4. Proyecto de visualización. 
 # La diabetes y su relación con algunas variables sociodemográficas y hábitos de salud.
-Relación entre lroject_visualizacion
+
 # 1.	INTRODUCCIÓN.
 
 La diabetes representa un desafío significativo para la salud a nivel mundial, con una prevalencia en constante aumento en las últimas décadas. Ha emergido como una de las principales causas de mortalidad en adultos. 
@@ -49,9 +49,12 @@ Estudio realizado a 258931 trabajadores (103427 mujeres y 155504 hombres), de di
 
 ![](https://github.com/karmelealonso/4-project_visualizacion/blob/main/imagenes/Dashboard%201.png)
 
+[Dashboard1:](https://public.tableau.com/views/4-project_visualizacion/Dashboard1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ![](https://github.com/karmelealonso/4-project_visualizacion/blob/main/imagenes/Dashboard%202.png)
+
+[Dashboard2:](https://public.tableau.com/views/4-project_visualizacion/Dashboard2?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
 # 4.2 DISCUSIÓN. 
 
@@ -89,6 +92,9 @@ Es importante tener en mente que las correlaciones no son causalidad, aunque la 
 En las gráficas siguientes, podemos ver como se comparan, en los tres casos, dos conjuntos de datos. 
 
 ![](https://github.com/karmelealonso/4-project_visualizacion/blob/main/imagenes/Dashboard%203.png)
+
+[Dashboard3:](https://public.tableau.com/views/4-project_visualizacion/Dashboard3?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
+
 Observamos una correlación fuerte entre ambas variables en todos los casos, evidenciando que cuando una variable experimenta un aumento, la otra también lo hace. Sin embargo, como decía, es importante destacar que esta conexión no implica necesariamente causalidad. Aunque ambas variables están vinculadas en sus cambios, no podemos concluir que el cambio en una sea la causa directa del cambio en la otra; la correlación refleja una asociación, pero no establece una relación causal clara.
 
 # 5.2 DISCUSIÓN.
